@@ -1,0 +1,17 @@
+* {
+  background-color: rgb(134, 204, 209);
+}
+h1 {
+  margin-bottom: 30px;
+  text-align: center;
+  font-size: 70px;
+}
+
+img {
+  margin: 0px auto;
+  display: block;
+}
+
+p {
+  text-align: center;
+}
